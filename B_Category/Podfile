@@ -1,0 +1,10 @@
+platform :ios, '8.0'
+use_frameworks!
+
+def all_Pods
+    pod 'CTMediator'
+end
+
+target 'B_Category'do
+   all_Pods
+end
