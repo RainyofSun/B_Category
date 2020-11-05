@@ -12,7 +12,7 @@
 		1327F7A82553ABEE00111281 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1327F7A62553ABEE00111281 /* LaunchScreen.storyboard */; };
 		1327F7AB2553ABEE00111281 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1327F7AA2553ABEE00111281 /* main.m */; };
 		1327F7B42553AC3C00111281 /* CTMediator+B.m in Sources */ = {isa = PBXBuildFile; fileRef = 1327F7B32553AC3C00111281 /* CTMediator+B.m */; };
-		1327F7B62553AD8000111281 /* LR_Category.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 1327F7B52553AD8000111281 /* LR_Category.podspec */; };
+		1327F7B62553AD8000111281 /* LRB_Category.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 1327F7B52553AD8000111281 /* LRB_Category.podspec */; };
 		750271EEA9B858DC053A141B /* Pods_B_Category.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E53699CC1AEC82B6C8372EE2 /* Pods_B_Category.framework */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +26,7 @@
 		1327F7AA2553ABEE00111281 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1327F7B22553AC3C00111281 /* CTMediator+B.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CTMediator+B.h"; sourceTree = "<group>"; };
 		1327F7B32553AC3C00111281 /* CTMediator+B.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CTMediator+B.m"; sourceTree = "<group>"; };
-		1327F7B52553AD8000111281 /* LR_Category.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LR_Category.podspec; sourceTree = "<group>"; };
+		1327F7B52553AD8000111281 /* LRB_Category.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LRB_Category.podspec; sourceTree = "<group>"; };
 		D52F55D483C3946DDD1C6D17 /* Pods-B_Category.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-B_Category.debug.xcconfig"; path = "Target Support Files/Pods-B_Category/Pods-B_Category.debug.xcconfig"; sourceTree = "<group>"; };
 		E53699CC1AEC82B6C8372EE2 /* Pods_B_Category.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_B_Category.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6C160A248176D01E16982E6 /* Pods-B_Category.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-B_Category.release.xcconfig"; path = "Target Support Files/Pods-B_Category/Pods-B_Category.release.xcconfig"; sourceTree = "<group>"; };
@@ -65,7 +65,7 @@
 		1327F7972553ABEC00111281 /* B_Category */ = {
 			isa = PBXGroup;
 			children = (
-				1327F7B52553AD8000111281 /* LR_Category.podspec */,
+				1327F7B52553AD8000111281 /* LRB_Category.podspec */,
 				1327F7B12553AC2700111281 /* Category */,
 				1327F7982553ABEC00111281 /* AppDelegate.h */,
 				1327F7992553ABEC00111281 /* AppDelegate.m */,
@@ -164,7 +164,7 @@
 			files = (
 				1327F7A82553ABEE00111281 /* LaunchScreen.storyboard in Resources */,
 				1327F7A52553ABEE00111281 /* Assets.xcassets in Resources */,
-				1327F7B62553AD8000111281 /* LR_Category.podspec in Resources */,
+				1327F7B62553AD8000111281 /* LRB_Category.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
